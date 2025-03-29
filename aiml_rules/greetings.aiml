@@ -1,0 +1,31 @@
+ <aiml version="0.9.2" encoding="UTF-8">
+    <category>
+        <pattern>HELLO</pattern>
+        <template>Hello! How are you feeling today?</template>
+    </category>
+
+    <category>
+        <pattern>HI</pattern>
+        <template>Hi there! What’s on your mind?</template>
+    </category>
+    
+    <category>
+        <pattern>GOODBYE</pattern>
+        <template>Goodbye! Take care of yourself.</template>
+    </category>
+
+    <category>
+        <pattern>BYE</pattern>
+        <template>Bye! Hope to talk again soon.</template>
+    </category>
+
+    <category>
+        <pattern>WHO ARE YOU</pattern>
+        <template>I'm your friendly chatbot here to assist you. What can I help you with?</template>
+    </category>
+
+    <category>
+        <pattern>WHAT CAN YOU DO</pattern>
+        <template>I’m here to listen, provide emotional support, and share resources for mental health. How can I assist you?</template>
+    </category>
+</aiml>

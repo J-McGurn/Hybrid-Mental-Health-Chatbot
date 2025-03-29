@@ -1,0 +1,28 @@
+<aiml version="0.9.2" encoding="UTF-8">
+    <category>
+        <pattern>I FEEL SAD</pattern>
+        <template>
+            <set name="mood">sad</set>
+            I’m sorry to hear that. Would you like to share more about what’s making you feel this way?</template>
+    </category>
+
+    <category>
+        <pattern>I AM ANXIOUS</pattern>
+        <template>Feeling anxious can be tough. Do you want to talk about what’s causing your anxiety?</template>
+    </category>
+
+    <category>
+        <pattern>I FEEL EMPTY</pattern>
+        <template>Feeling empty can be hard. I’m here to listen if you’d like to share what’s on your mind.</template>
+    </category>
+
+    <category>
+        <pattern>I FEEL OVERWHELMED</pattern>
+        <template>It sounds like you’re carrying a lot right now. Would it help to talk about what’s overwhelming you?</template>
+    </category>
+
+    <category>
+        <pattern>I FEEL HAPPY</pattern>
+        <template>That’s wonderful to hear! What’s been making you happy?</template>
+    </category>
+</aiml>

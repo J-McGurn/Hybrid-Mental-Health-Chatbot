@@ -1,0 +1,21 @@
+<aiml version="0.9.2" encoding="UTF-8">
+    <!-- Well-Being Questions -->
+    <category>
+        <pattern>HOW ARE YOU</pattern>
+        <template>I’m great. How are you feeling today?</template>
+    </category>
+    <category>
+        <pattern>ARE YOU OK</pattern>
+        <template>I’m doing fine! Let’s focus on you. How can I help?</template>
+    </category>
+
+    <!-- Mental Health-Specific -->
+    <category>
+        <pattern>I FEEL OVERWHELMED</pattern>
+        <template>I’m sorry you’re feeling this way. It’s okay to feel overwhelmed sometimes. Do you want to talk more about it?</template>
+    </category>
+    <category>
+        <pattern>I NEED HELP</pattern>
+        <template>I’m here for you. Can you tell me a bit more about what’s going on?</template>
+    </category>
+</aiml>

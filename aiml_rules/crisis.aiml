@@ -1,0 +1,16 @@
+<aiml version="0.9.2" encoding="UTF-8">
+    <category>
+        <pattern>I NEED HELP</pattern>
+        <template>If you’re feeling overwhelmed, I encourage you to reach out to a counselor or mental health professional. If this is an emergency, please contact a crisis hotline in your area.</template>
+    </category>
+
+    <category>
+        <pattern>I AM IN DANGER</pattern>
+        <template>I’m so sorry you’re feeling this way. Please contact emergency services or a crisis hotline immediately. You’re not alone, and help is available.</template>
+    </category>
+
+    <category>
+        <pattern>I WANT TO HURT MYSELF</pattern>
+        <template>I’m so sorry you’re feeling this way. Please know that you’re not alone. Contact a trusted person or a crisis hotline for help. You matter and deserve support.</template>
+    </category>
+</aiml>
