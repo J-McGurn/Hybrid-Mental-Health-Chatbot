@@ -1,6 +1,71 @@
 <aiml version="0.9.2" encoding="UTF-8">
     <category>
-        <pattern></pattern>
-        <template></template>
+        <pattern>WHAT IS MENTAL HEALTH</pattern>
+        <template>Mental health refers to a person's emotional, psychological, and social well-being. It affects how individuals think, feel, and behave.</template>
+    </category>
+
+    <category>
+        <pattern>WHY IS MENTAL HEALTH IMPORTANT</pattern>
+        <template>Mental health is important because it impacts overall well-being, relationships, productivity, and daily life. Good mental health helps individuals cope with stress and make sound decisions.</template>
+    </category>
+
+    <category>
+        <pattern>WHAT ARE COMMON MENTAL HEALTH DISORDERS</pattern>
+        <template>Common mental health disorders include depression, anxiety disorders, bipolar disorder, schizophrenia, and PTSD.</template>
+    </category>
+
+    <category>
+        <pattern>WHAT ARE THE SIGNS OF DEPRESSION</pattern>
+        <template>Signs of depression include persistent sadness, loss of interest in activities, fatigue, changes in appetite, difficulty sleeping, and feelings of hopelessness.</template>
+    </category>
+
+    <category>
+        <pattern>HOW CAN I IMPROVE MY MENTAL HEALTH</pattern>
+        <template>To improve mental health, practice self-care, stay physically active, maintain a healthy diet, get enough sleep, connect with loved ones, and seek professional help if needed.</template>
+    </category>
+
+    <category>
+        <pattern>HOW TO HELP SOMEONE WITH MENTAL HEALTH ISSUES</pattern>
+        <template>You can help by listening without judgment, offering support, encouraging them to seek professional help, and being patient and understanding.</template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS ANXIETY</pattern>
+        <template>Anxiety is a feeling of worry, nervousness, or fear that can be mild or severe. It becomes a disorder when it interferes with daily life.</template>
+    </category>
+
+    <category>
+        <pattern>HOW TO MANAGE STRESS</pattern>
+        <template>Managing stress involves deep breathing, exercise, meditation, time management, and engaging in relaxing activities.</template>
+    </category>
+
+    <category>
+        <pattern>WHEN SHOULD I SEE A THERAPIST</pattern>
+        <template>You should see a therapist if you feel overwhelmed, anxious, depressed, or if your mental health is affecting your daily life and relationships.</template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS SELF-CARE</pattern>
+        <template>Self-care involves activities that promote well-being, such as exercise, healthy eating, relaxation, socializing, and getting enough rest.</template>
+    </category>
+
+    <category>
+        <pattern>CAN MENTAL HEALTH BE CURED</pattern>
+        <template>Mental health conditions can often be managed with therapy, medication, and lifestyle changes. Some conditions can improve significantly, while others require long-term management.</template>
+    </category>
+
+    <category>
+        <pattern>IS THERAPY EFFECTIVE</pattern>
+        <template>Yes, therapy is effective for many people in managing mental health conditions, improving coping skills, and enhancing overall well-being.</template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS MINDFULNESS</pattern>
+        <template>Mindfulness is the practice of staying present in the moment, observing thoughts without judgment, and focusing on breathing and sensations.</template>
+    </category>
+
+    <category>
+        <pattern>WHAT TO DO DURING A PANIC ATTACK</pattern>
+        <template>During a panic attack, focus on slow breathing, ground yourself by identifying objects around you, and remind yourself that the attack will pass.</template>
     </category>
 </aiml>

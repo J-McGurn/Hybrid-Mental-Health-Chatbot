@@ -1,16 +1,87 @@
 <aiml version="0.9.2" encoding="UTF-8">
+    <!-- URGENT SUICIDE & SELF-HARM RESPONSES -->
     <category>
-        <pattern>I NEED HELP</pattern>
-        <template>If you’re feeling overwhelmed, I encourage you to reach out to a counselor or mental health professional. If this is an emergency, please contact a crisis hotline in your area.</template>
+        <pattern>I FEEL SUICIDAL</pattern>
+        <template>I'm really sorry you're feeling this way. You're not alone, and support is available. Please call Samaritans at 116 123 (free, 24/7) or reach out to someone you trust. If you're in immediate danger, please call 999.</template>
     </category>
 
     <category>
-        <pattern>I AM IN DANGER</pattern>
-        <template>I’m so sorry you’re feeling this way. Please contact emergency services or a crisis hotline immediately. You’re not alone, and help is available.</template>
+        <pattern>I WANT TO DIE</pattern>
+        <template>I'm really sorry you're feeling this way. You don’t have to go through this alone. Please reach out to Samaritans at 116 123 (free, 24/7) or call 999 if you're in immediate danger.</template>
     </category>
 
     <category>
         <pattern>I WANT TO HURT MYSELF</pattern>
-        <template>I’m so sorry you’re feeling this way. Please know that you’re not alone. Contact a trusted person or a crisis hotline for help. You matter and deserve support.</template>
+        <template>I'm really sorry you feel this way. Please talk to someone who can help. You can call Samaritans at 116 123 or text SHOUT to 85258 for free crisis support.</template>
+    </category>
+
+    <category>
+        <pattern>I AM THINKING ABOUT SELF HARM</pattern>
+        <template>You are not alone. Please consider talking to a trusted friend, family member, or calling a support service like Samaritans (116 123) or texting SHOUT to 85258.</template>
+    </category>
+
+    <!-- HELPING SOMEONE ELSE -->
+    <category>
+        <pattern>I THINK SOMEONE IS SUICIDAL</pattern>
+        <template>It’s important to take this seriously. Encourage them to call Samaritans at 116 123 or text SHOUT to 85258. If they are in immediate danger, call 999.</template>
+    </category>
+
+    <category>
+        <pattern>HOW CAN I HELP SOMEONE WHO IS SUICIDAL</pattern>
+        <template>Listen to them without judgment, encourage them to seek help, and stay with them if they are in immediate danger. Call 999 if necessary.</template>
+    </category>
+
+    <category>
+        <pattern>WHAT TO DO IF SOMEONE WANTS TO HURT THEMSELVES</pattern>
+        <template>Stay with them, listen, and encourage them to get professional help. Samaritans (116 123) and SHOUT (text 85258) can offer support.</template>
+    </category>
+
+    <!-- GENERAL MENTAL HEALTH CRISIS HELP -->
+    <category>
+        <pattern>I AM HAVING A MENTAL HEALTH CRISIS</pattern>
+        <template>I’m really sorry you're going through this. Please call Samaritans at 116 123 or text SHOUT to 85258. If you feel unsafe, please call 999.</template>
+    </category>
+
+    <category>
+        <pattern>WHAT SHOULD I DO IN A MENTAL HEALTH EMERGENCY</pattern>
+        <template>If you're in a crisis, call Samaritans at 116 123 or text SHOUT to 85258. If you or someone you know is in danger, call 999.</template>
+    </category>
+
+    <!-- PANIC ATTACKS & SEVERE ANXIETY -->
+    <category>
+        <pattern>I AM HAVING A PANIC ATTACK</pattern>
+        <template>I'm sorry you're experiencing this. Try taking slow, deep breaths: inhale for 4 seconds, hold for 4 seconds, and exhale for 4 seconds. Focus on five things you can see, four you can touch, three you can hear, two you can smell, and one you can taste. If it doesn’t get better, please reach out to a professional.</template>
+    </category>
+
+    <category>
+        <pattern>HOW TO HELP SOMEONE HAVING A PANIC ATTACK</pattern>
+        <template>Encourage them to breathe slowly and deeply, remind them they are safe, and help them focus on their surroundings. Avoid saying "calm down"—instead, reassure them that the feeling will pass.</template>
+    </category>
+
+    <!-- CRISIS HOTLINES -->
+    <category>
+        <pattern>WHERE CAN I FIND A CRISIS HOTLINE</pattern>
+        <template>In the UK, you can contact:  
+        - **Samaritans**: 116 123 (free, 24/7)  
+        - **SHOUT** (text-based support): Text SHOUT to 85258  
+        - **Mind**: 0300 123 3393  
+        - **NHS 111**: For urgent but non-emergency mental health support  
+        - If you are in immediate danger, call **999**.</template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS A CRISIS HOTLINE</pattern>
+        <template>A crisis hotline is a free, confidential service where trained professionals help people in distress. In the UK, you can call **Samaritans at 116 123** or text **SHOUT to 85258**.</template>
+    </category>
+
+    <!-- DEFAULT SAFE RESPONSES -->
+    <category>
+        <pattern>CAN YOU HELP ME</pattern>
+        <template>I’m here to provide support, but I strongly encourage you to contact a crisis service for immediate help. You can call **Samaritans at 116 123** or text **SHOUT to 85258**.</template>
+    </category>
+
+    <category>
+        <pattern>CAN YOU CALL 999 FOR ME</pattern>
+        <template>I'm unable to make emergency calls. If you need urgent help, please call **999** or ask someone nearby to call for you.</template>
     </category>
 </aiml>

@@ -1,0 +1,81 @@
+<aiml version="0.9.2" encoding="UTF-8">
+    <!-- General Resources -->
+    <category>
+        <pattern>WHERE CAN I FIND MORE HELP</pattern>
+        <template>Here are a few resources that might help you:
+        - **Samaritans (24/7 helpline)**: Call 116 123 for free and confidential support.
+        - **Mind (Mental health charity)**: Visit [www.mind.org.uk](https://www.mind.org.uk) for information and support.
+        - **NHS Mental Health Services**: Dial 111 for urgent mental health support or reach out to your GP.
+        - **SHOUT (Crisis Text Support)**: Text SHOUT to 85258 for free, 24/7 text-based support.</template>
+    </category>
+
+    <!-- Specific Helplines -->
+    <category>
+        <pattern>WHAT ARE THE HELPLINES FOR MENTAL HEALTH</pattern>
+        <template>Here are some helplines you can contact:
+        - **Samaritans**: 116 123 (Available 24/7)
+        - **Mind**: 0300 123 3393 (Monday to Friday, 9am to 6pm)
+        - **Childline (under 19)**: 0800 1111 (Available 24/7)
+        - **The Mix**: 0808 808 4994 (For under 25s, Available 3pm-12am)
+        - **Crisis Text Line (SHOUT)**: Text SHOUT to 85258</template>
+    </category>
+
+    <!-- Local Mental Health Services -->
+    <category>
+        <pattern>HOW CAN I GET PROFESSIONAL HELP</pattern>
+        <template>If you're in the UK, here are some ways to get professional help:
+        - **Your GP**: Book an appointment with your doctor for mental health support.
+        - **NHS Mental Health Services**: Call 111 for urgent advice or visit [www.nhs.uk](https://www.nhs.uk) for more details.
+        - **IAPT (Improving Access to Psychological Therapies)**: For therapy, you can self-refer to IAPT services online.</template>
+    </category>
+
+    <!-- Online Therapy and Support Groups -->
+    <category>
+        <pattern>ARE THERE ANY ONLINE SUPPORT GROUPS</pattern>
+        <template>Yes, there are online support groups available. Here are some options:
+        - **Mind's Online Community**: Visit [Mind’s Forum](https://www.mind.org.uk/information-support/your-stories/) to connect with others.
+        - **7 Cups**: Offers free online support and therapy [www.7cups.com](https://www.7cups.com).
+        - **Mental Health Foundation’s Support Groups**: [www.mentalhealth.org.uk](https://www.mentalhealth.org.uk) offers online groups and forums.</template>
+    </category>
+
+    <!-- Text-Based Crisis Support -->
+    <category>
+        <pattern>WHAT IS SHOUT</pattern>
+        <template>**SHOUT** is a free, confidential 24/7 text-based support service. Text SHOUT to 85258 to get immediate help when you're feeling overwhelmed or in crisis.</template>
+    </category>
+
+    <!-- National Support -->
+    <category>
+        <pattern>WHAT IS SAMARITANS</pattern>
+        <template>**Samaritans** is a 24/7 helpline offering emotional support. Call 116 123 for confidential help if you're struggling. You don't have to go through it alone.</template>
+    </category>
+
+    <!-- Online Resources -->
+    <category>
+        <pattern>WHAT WEBSITES CAN I VISIT FOR MENTAL HEALTH SUPPORT</pattern>
+        <template>Here are some websites that might help you:
+        - **Mind**: [www.mind.org.uk](https://www.mind.org.uk)
+        - **NHS Mental Health**: [www.nhs.uk](https://www.nhs.uk)
+        - **Samaritans**: [www.samaritans.org](https://www.samaritans.org)
+        - **Mental Health Foundation**: [www.mentalhealth.org.uk](https://www.mentalhealth.org.uk)
+        - **Rethink Mental Illness**: [www.rethink.org](https://www.rethink.org)</template>
+    </category>
+
+    <!-- Self-Help Resources -->
+    <category>
+        <pattern>WHERE CAN I FIND SELF-HELP MATERIALS</pattern>
+        <template>Here are some great resources for self-help:
+        - **Mind**: Visit their [Self-Care Resources](https://www.mind.org.uk/information-support/tips-for-everyday-living/self-care/).
+        - **Mental Health Foundation**: Check out their [Self-Help Guides](https://www.mentalhealth.org.uk/publications).
+        - **Books & Apps**: You may find helpful resources in self-help books or mental health apps like *Calm*, *Headspace*, or *Happify*.</template>
+    </category>
+
+    <!-- Emergency Services -->
+    <category>
+        <pattern>I NEED IMMEDIATE HELP</pattern>
+        <template>If you're in immediate danger or need urgent assistance, please contact the following:
+        - **Emergency Services**: Dial 999 or 112 for emergency help.
+        - **Samaritans**: Call 116 123 for immediate emotional support.</template>
+    </category>
+
+</aiml>

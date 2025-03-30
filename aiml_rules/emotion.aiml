@@ -1,28 +1,108 @@
 <aiml version="0.9.2" encoding="UTF-8">
+    <!-- SADNESS & LOW MOOD -->
     <category>
         <pattern>I FEEL SAD</pattern>
-        <template>
-            <set name="mood">sad</set>
-            I’m sorry to hear that. Would you like to share more about what’s making you feel this way?</template>
+        <template>I'm really sorry you're feeling this way. You're not alone. Would you like to talk about what's on your mind?</template>
     </category>
 
     <category>
-        <pattern>I AM ANXIOUS</pattern>
-        <template>Feeling anxious can be tough. Do you want to talk about what’s causing your anxiety?</template>
+        <pattern>I AM SAD</pattern>
+        <template>That sounds tough. I'm here to listen if you want to share. Sometimes, talking can help.</template>
     </category>
 
     <category>
-        <pattern>I FEEL EMPTY</pattern>
-        <template>Feeling empty can be hard. I’m here to listen if you’d like to share what’s on your mind.</template>
+        <pattern>I FEEL LIKE CRYING</pattern>
+        <template>It's okay to cry. Letting your emotions out can help. If you need support, I'm here to listen.</template>
+    </category>
+
+    <category>
+        <pattern>WHY DO I FEEL SAD FOR NO REASON</pattern>
+        <template>Feeling sad without a clear reason is normal sometimes. It could be stress, hormones, or just one of those days. If it lasts a long time, talking to a professional might help.</template>
+    </category>
+
+    <!-- LONELINESS -->
+    <category>
+        <pattern>I FEEL LONELY</pattern>
+        <template>I'm sorry you're feeling this way. You are not alone, even if it feels that way right now. Connecting with someone you trust might help.</template>
+    </category>
+
+    <category>
+        <pattern>I HAVE NO ONE TO TALK TO</pattern>
+        <template>That must feel really difficult. You're not alone, even if it seems that way. Maybe reaching out to a support group or an online community could help?</template>
+    </category>
+
+    <!-- STRESS & ANXIETY -->
+    <category>
+        <pattern>I AM STRESSED</pattern>
+        <template>I'm sorry you're feeling stressed. Have you tried deep breathing or taking a short break? Talking about what's on your mind might help too.</template>
     </category>
 
     <category>
         <pattern>I FEEL OVERWHELMED</pattern>
-        <template>It sounds like you’re carrying a lot right now. Would it help to talk about what’s overwhelming you?</template>
+        <template>That sounds really tough. Try breaking things down into smaller steps and focusing on one thing at a time. You're not alone in this.</template>
     </category>
 
     <category>
-        <pattern>I FEEL HAPPY</pattern>
-        <template>That’s wonderful to hear! What’s been making you happy?</template>
+        <pattern>I HAVE ANXIETY</pattern>
+        <template>Anxiety can be really difficult to deal with. Have you tried grounding techniques, like focusing on your breathing or naming five things you can see?</template>
+    </category>
+
+    <category>
+        <pattern>I FEEL ANXIOUS</pattern>
+        <template>I'm sorry you're feeling anxious. You're not alone, and this feeling will pass. Try taking slow, deep breaths and focusing on the present moment.</template>
+    </category>
+
+    <!-- HOPE & ENCOURAGEMENT -->
+    <category>
+        <pattern>I FEEL HOPELESS</pattern>
+        <template>I'm really sorry you feel that way. You matter, and things can get better. Please consider talking to someone who can support you.</template>
+    </category>
+
+    <category>
+        <pattern>DOES IT GET BETTER</pattern>
+        <template>Yes, it does. It might not feel that way right now, but things can change. You don’t have to go through this alone.</template>
+    </category>
+
+    <!-- ANGER & FRUSTRATION -->
+    <category>
+        <pattern>I AM ANGRY</pattern>
+        <template>It’s okay to feel angry. Try taking deep breaths or stepping away from the situation for a moment. Would you like to talk about what’s upsetting you?</template>
+    </category>
+
+    <category>
+        <pattern>I AM FRUSTRATED</pattern>
+        <template>That sounds really frustrating. It’s okay to feel this way. Maybe writing down your thoughts or talking to someone might help?</template>
+    </category>
+
+    <!-- TIREDNESS & BURNOUT -->
+    <category>
+        <pattern>I AM TIRED</pattern>
+        <template>It sounds like you might need some rest. Try to take a break, even if it's just for a few minutes.</template>
+    </category>
+
+    <category>
+        <pattern>I FEEL BURNED OUT</pattern>
+        <template>Burnout is tough. Try to take things one step at a time and make sure you're giving yourself breaks. You deserve rest.</template>
+    </category>
+
+    <!-- DEFAULT SUPPORTIVE RESPONSES -->
+    <category>
+        <pattern>I DON'T KNOW HOW I FEEL</pattern>
+        <template>That’s okay. Sometimes emotions are hard to understand. I'm here if you want to talk.</template>
+    </category>
+
+    <category>
+        <pattern>I NEED SOMEONE TO TALK TO</pattern>
+        <template>I'm here to listen. If you're feeling overwhelmed, talking to a trusted friend or professional could also help.</template>
+    </category>
+
+    <category>
+        <pattern>DO YOU CARE ABOUT ME</pattern>
+        <template>I care about how you're feeling. You're not alone, and your feelings matter.</template>
+    </category>
+
+    <category>
+        <pattern>I NEED A HUG</pattern>
+        <template>Sending you a virtual hug! 🤗 You're not alone.</template>
     </category>
 </aiml>
