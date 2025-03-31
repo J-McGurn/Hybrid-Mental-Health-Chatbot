@@ -1,6 +1,0 @@
-<aiml version="0.9.2" encoding="UTF-8">
-    <category>
-        <pattern>*</pattern>
-        <template>Could you elaborate on that? I’d like to understand better.</template>
-    </category>
-</aiml>
